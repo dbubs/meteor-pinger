@@ -1,1 +1,1 @@
-wikipedia = Npm.require('pinger');
+pinger = Npm.require('pinger');
