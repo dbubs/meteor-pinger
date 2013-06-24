@@ -1,0 +1,9 @@
+{
+	"name": "pinger",
+	"description": "pinger NPM module packaged for Meteor.",
+	"homepage": "https://github.com/dbubs/meteor-pinger",
+	"author": "David Knell",
+	"version": "0.0.4",
+	"git": "https://github.com/dbubs/meteor-pinger.git",
+	"packages": {}
+}
