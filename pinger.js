@@ -1,1 +1,1 @@
-pinger = Npm.require('jjg-ping');
+pinger = Npm.require('ping-wrapper2');
