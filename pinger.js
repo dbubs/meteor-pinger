@@ -1,1 +1,1 @@
-pinger = Npm.require('net-ping');
+pinger = Npm.require('jjg-ping');
