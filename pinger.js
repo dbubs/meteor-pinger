@@ -1,1 +1,1 @@
-pinger = Npm.require('ping-wrapper2');
+pinger = Npm.require('ping');
